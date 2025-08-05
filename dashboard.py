@@ -125,7 +125,7 @@ if menu == "Comparativa":
 ''')
         st.markdown(html, unsafe_allow_html=True)
 
-# === Sección: ANALITICS EL DEBER ===
+# === Sección: ANALITICA EL DEBER ===
 elif menu == "Analitics EL DEBER":
     st.markdown("### 📲 Análisis por red social")
 
